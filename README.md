@@ -1,5 +1,5 @@
 # Federated_Learning
-This repository contains a project showcasing Federated Learning using the EMNIST dataset. Federated Learning is a privacy-preserving machine learning approach that allows a model to be trained across multiple decentralized devices or servers holding local data samples, without exchanging them.
+Federated Learning is a machine learning approach that allows a model to be trained across multiple decentralized devices or servers holding local data samples, without exchanging them. Instead of sharing raw data, only model updates are sent back to a central server, ensuring data privacy. It's useful for sensitive data (like healthcare records), edge devices, and scenarios with limited bandwidth. Challenges include communication overhead and data distribution. It finds applications in healthcare, finance, IoT, and personalized predictions. Ongoing research is focused on addressing its challenges and expanding its use cases.
 
 ## Key Features:
 
